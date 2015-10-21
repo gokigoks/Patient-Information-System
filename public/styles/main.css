@@ -1,0 +1,30 @@
+.textbox {
+	width:90%;
+	height:25px;
+	border-radius: 8px;
+	border-width: 1px;
+}
+
+.btn-style1 {
+
+	height:28px;
+	border-radius: 3px;
+	font-size:20px; 
+}
+
+.textbox:focus, .textbox:hover {
+	background-color: blue;
+	color: #fff;
+}
+
+.tbfont {
+	font-family: verdana,tahoma,arial;
+	font-size: 20px;
+}
+
+.titlefont {
+	font-family: verdana,tahoma,arial;
+	font-size: 24px;
+	color:#00f;	
+}
+
